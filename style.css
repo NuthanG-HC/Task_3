@@ -1,0 +1,24 @@
+#search-display{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+#title{
+    width: 350px;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 28px;
+}
+#action{
+    width:100px;
+    border-radius: 5px;
+    font-size: 18px;
+    background-color: azure;
+}
+#result{
+    display: flex;
+    justify-content: center;
+    margin-left: 450px;
+    margin-top: 50px;
+    
+}
